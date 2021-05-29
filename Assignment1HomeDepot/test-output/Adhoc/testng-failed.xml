@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Adhoc]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Assignment(failed)">
+    <classes>
+      <class name="TestingGroupID.Selfstudy.Browser">
+        <methods>
+          <include name="CVS008"/>
+          <include name="afterMethod"/>
+          <include name="CVS009"/>
+          <include name="CVS004"/>
+          <include name="CVS005"/>
+          <include name="afterClass"/>
+          <include name="CVS006"/>
+          <include name="CVS007"/>
+          <include name="CVS001"/>
+          <include name="CVS002"/>
+          <include name="CVS003"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- TestingGroupID.Selfstudy.Browser -->
+    </classes>
+  </test> <!-- Assignment(failed) -->
+</suite> <!-- Failed suite [Adhoc] -->

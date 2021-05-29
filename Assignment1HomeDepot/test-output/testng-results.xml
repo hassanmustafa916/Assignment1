@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T09:56:32 EDT" name="Adhoc" finished-at="2021-05-28T09:57:54 EDT" duration-ms="82222">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T09:56:32 EDT" name="Assignment" finished-at="2021-05-28T09:57:54 EDT" duration-ms="82222">
+      <class name="TestingGroupID.Selfstudy.Browser">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:56:32 EDT" name="beforeClass" finished-at="2021-05-28T09:57:26 EDT" duration-ms="53714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:26 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:26 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS001()[pri:1, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:26 EDT" name="CVS001" finished-at="2021-05-28T09:57:36 EDT" duration-ms="10421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS001 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:36 EDT" name="afterMethod" finished-at="2021-05-28T09:57:36 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:36 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:36 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS002()[pri:2, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:36 EDT" name="CVS002" finished-at="2021-05-28T09:57:43 EDT" duration-ms="6567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS002 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:43 EDT" name="afterMethod" finished-at="2021-05-28T09:57:43 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:43 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:43 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS003()[pri:3, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:43 EDT" name="CVS003" finished-at="2021-05-28T09:57:44 EDT" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS003 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:44 EDT" name="afterMethod" finished-at="2021-05-28T09:57:44 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:44 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:44 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS004()[pri:4, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:44 EDT" name="CVS004" finished-at="2021-05-28T09:57:45 EDT" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS004 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="afterMethod" finished-at="2021-05-28T09:57:45 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:45 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS005()[pri:5, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="CVS005" finished-at="2021-05-28T09:57:45 EDT" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS005 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="afterMethod" finished-at="2021-05-28T09:57:45 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS006()[pri:6, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:45 EDT" name="CVS006" finished-at="2021-05-28T09:57:47 EDT" duration-ms="1465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS006 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="afterMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS007()[pri:7, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="CVS007" finished-at="2021-05-28T09:57:47 EDT" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS007 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="afterMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="CVS008()[pri:8, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="CVS008" finished-at="2021-05-28T09:57:47 EDT" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS008 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="afterMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="beforeMethod" finished-at="2021-05-28T09:57:47 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CVS009()[pri:9, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:47 EDT" name="CVS009" finished-at="2021-05-28T09:57:48 EDT" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CVS009 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:48 EDT" name="afterMethod" finished-at="2021-05-28T09:57:48 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestingGroupID.Selfstudy.Browser@1d119efb]" started-at="2021-05-28T09:57:48 EDT" name="afterClass" finished-at="2021-05-28T09:57:54 EDT" duration-ms="6494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestingGroupID.Selfstudy.Browser -->
+    </test> <!-- Assignment -->
+  </suite> <!-- Adhoc -->
+</testng-results>
